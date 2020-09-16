@@ -1,2 +1,2 @@
-# BstCoin
-The Best Coin in the Multiverse
+# EcoFi
+Beyond Defi, Ecofi is the future
