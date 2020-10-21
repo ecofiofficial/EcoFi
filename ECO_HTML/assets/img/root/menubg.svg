@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1295" height="1005" viewBox="0 0 1295 1005">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Artboard_1);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-13, .cls-6, .cls-7 {
+        opacity: 0.2;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-21, .cls-22, .cls-25, .cls-26, .cls-27, .cls-32, .cls-33, .cls-34, .cls-6, .cls-7, .cls-8, .cls-9 {
+        mix-blend-mode: screen;
+      }
+
+      .cls-10, .cls-13, .cls-14, .cls-15, .cls-16, .cls-17, .cls-19, .cls-20, .cls-21, .cls-22, .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-30, .cls-31, .cls-32, .cls-33, .cls-34, .cls-6, .cls-7, .cls-8, .cls-9 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-10, .cls-15, .cls-17, .cls-8 {
+        opacity: 0.5;
+      }
+
+      .cls-8 {
+        fill: url(#radial-gradient-4);
+      }
+
+      .cls-16, .cls-9 {
+        opacity: 0.3;
+      }
+
+      .cls-9 {
+        fill: url(#radial-gradient-5);
+      }
+
+      .cls-10 {
+        fill: url(#radial-gradient-6);
+      }
+
+      .cls-11 {
+        fill: url(#radial-gradient-7);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-13 {
+        fill: url(#radial-gradient-8);
+      }
+
+      .cls-14 {
+        opacity: 0.079;
+        fill: url(#radial-gradient-9);
+      }
+
+      .cls-15 {
+        fill: url(#radial-gradient-10);
+      }
+
+      .cls-16 {
+        fill: url(#radial-gradient-11);
+      }
+
+      .cls-17 {
+        fill: url(#radial-gradient-12);
+      }
+
+      .cls-18 {
+        fill: #22b573;
+      }
+
+      .cls-19, .cls-20, .cls-23, .cls-24, .cls-30, .cls-31 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-19 {
+        fill: url(#radial-gradient-13);
+      }
+
+      .cls-20 {
+        fill: url(#radial-gradient-14);
+      }
+
+      .cls-21 {
+        fill: url(#radial-gradient-15);
+      }
+
+      .cls-22 {
+        fill: url(#radial-gradient-16);
+      }
+
+      .cls-23 {
+        fill: url(#radial-gradient-17);
+      }
+
+      .cls-24 {
+        fill: url(#radial-gradient-18);
+      }
+
+      .cls-25 {
+        fill: url(#radial-gradient-19);
+      }
+
+      .cls-26 {
+        fill: url(#radial-gradient-20);
+      }
+
+      .cls-27 {
+        fill: url(#radial-gradient-21);
+      }
+
+      .cls-28 {
+        fill: #009245;
+      }
+
+      .cls-29 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-30 {
+        fill: url(#radial-gradient-22);
+      }
+
+      .cls-31 {
+        fill: url(#radial-gradient-23);
+      }
+
+      .cls-32 {
+        fill: url(#radial-gradient-24);
+      }
+
+      .cls-33 {
+        fill: url(#radial-gradient-25);
+      }
+
+      .cls-34 {
+        fill: url(#radial-gradient-26);
+      }
+
+      .cls-35 {
+        fill: #101010;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_40" data-name="Rectangle 40" class="cls-1" width="1920" height="1080" transform="translate(1)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.499" gradientTransform="translate(-0.001 -0.001)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="0.187" stop-color="#383838"/>
+      <stop offset="0.52" stop-color="#191919"/>
+      <stop offset="0.803" stop-color="#060606"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <clipPath id="clip-path-2">
+      <ellipse id="Ellipse_122" data-name="Ellipse 122" class="cls-1" cx="96.326" cy="96.544" rx="96.326" ry="96.544"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.499" gradientTransform="translate(-0.001 -0.001)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ccc"/>
+      <stop offset="0.042" stop-color="#c2c2c2" stop-opacity="0.953"/>
+      <stop offset="0.517" stop-color="#5a5a5a" stop-opacity="0.443"/>
+      <stop offset="0.846" stop-color="#191919" stop-opacity="0.125"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-4" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-5" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-6" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-7" cx="0.5" cy="0.5" r="0.499" xlink:href="#radial-gradient"/>
+    <clipPath id="clip-path-3">
+      <ellipse id="Ellipse_129" data-name="Ellipse 129" class="cls-1" cx="187.598" cy="188.022" rx="187.598" ry="188.022" transform="translate(1651.86 100.555)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-8" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-9" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-10" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-11" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-12" cy="0.5" r="0.499" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-13" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.043" stop-color="#4db84c"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-14" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0.042" stop-color="#6cbe45"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-15" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#69bd45"/>
+      <stop offset="0" stop-color="#28aa4a" stop-opacity="0.961"/>
+      <stop offset="0.41" stop-color="#165e29" stop-opacity="0.533"/>
+      <stop offset="0.812" stop-color="#061a0b" stop-opacity="0.149"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-16" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4bb749"/>
+      <stop offset="0.468" stop-color="#255a24" stop-opacity="0.494"/>
+      <stop offset="0.83" stop-color="#0a190a" stop-opacity="0.137"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-17" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.048" stop-color="#49bc8e"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-18" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.043" stop-color="#69bd45"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-19" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5ebb47"/>
+      <stop offset="0.478" stop-color="#2d5a22" stop-opacity="0.486"/>
+      <stop offset="0.833" stop-color="#0c1909" stop-opacity="0.137"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-20" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2db34a"/>
+      <stop offset="0.457" stop-color="#165a25" stop-opacity="0.506"/>
+      <stop offset="0.827" stop-color="#06190a" stop-opacity="0.141"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-21" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6dbe45"/>
+      <stop offset="0.485" stop-color="#345a20" stop-opacity="0.478"/>
+      <stop offset="0.836" stop-color="#0e1909" stop-opacity="0.133"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-path-4">
+      <circle id="Ellipse_155" data-name="Ellipse 155" class="cls-1" cx="37.283" cy="37.283" r="37.283" transform="translate(77.434 170.276)"/>
+    </clipPath>
+    <radialGradient id="radial-gradient-22" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0.044" stop-color="#4e81c2"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-23" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0.043" stop-color="#ff931e"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-24" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.001" stop-color="#75c043"/>
+      <stop offset="0.491" stop-color="#375a1f" stop-opacity="0.471"/>
+      <stop offset="0.838" stop-color="#0f1908" stop-opacity="0.133"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-25" cx="0.5" cy="0.5" r="0.5" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#72bf44"/>
+      <stop offset="0.488" stop-color="#365a20" stop-opacity="0.475"/>
+      <stop offset="0.837" stop-color="#0f1909" stop-opacity="0.133"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-26" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6ebe44"/>
+      <stop offset="0.485" stop-color="#345a20" stop-opacity="0.478"/>
+      <stop offset="0.836" stop-color="#0e1909" stop-opacity="0.133"/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip-Artboard_1">
+      <rect width="1295" height="1005"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_1" data-name="Artboard – 1" class="cls-2">
+    <rect class="cls-35" width="1295" height="1005"/>
+    <g id="Group_1689" data-name="Group 1689" transform="translate(784 -75)">
+      <g id="Group_1678" data-name="Group 1678" transform="translate(-1410)">
+        <g id="Group_1677" data-name="Group 1677" class="cls-3">
+          <g id="Group_1676" data-name="Group 1676">
+            <g id="Group_1667" data-name="Group 1667" transform="translate(84 413)">
+              <ellipse id="Ellipse_116" data-name="Ellipse 116" class="cls-4" cx="96.326" cy="96.544" rx="96.326" ry="96.544" transform="translate(961.224 413.148)"/>
+              <g id="Group_1666" data-name="Group 1666" transform="translate(961.224 413.148)">
+                <g id="Group_1665" data-name="Group 1665" class="cls-5">
+                  <g id="Group_1664" data-name="Group 1664" transform="translate(-51.826 -13.824)">
+                    <ellipse id="Ellipse_117" data-name="Ellipse 117" class="cls-6" cx="85.332" cy="85.525" rx="85.332" ry="85.525" transform="translate(92.933 65.953)"/>
+                    <ellipse id="Ellipse_118" data-name="Ellipse 118" class="cls-7" cx="85.332" cy="85.525" rx="85.332" ry="85.525"/>
+                    <ellipse id="Ellipse_119" data-name="Ellipse 119" class="cls-8" cx="58.779" cy="58.912" rx="58.779" ry="58.912" transform="translate(132.184 6.942)"/>
+                    <ellipse id="Ellipse_120" data-name="Ellipse 120" class="cls-9" cx="58.779" cy="58.912" rx="58.779" ry="58.912" transform="translate(65.226 85.623)"/>
+                    <ellipse id="Ellipse_121" data-name="Ellipse 121" class="cls-10" cx="45.503" cy="45.606" rx="45.503" ry="45.606" transform="translate(105.055 8.099)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <g id="Group_1671" data-name="Group 1671" transform="translate(-67 649)">
+              <ellipse id="Ellipse_123" data-name="Ellipse 123" class="cls-11" cx="187.598" cy="188.022" rx="187.598" ry="188.022" transform="translate(1651.86 100.555)"/>
+              <g id="Group_1670" data-name="Group 1670">
+                <g id="Group_1669" data-name="Group 1669" class="cls-12">
+                  <g id="Group_1668" data-name="Group 1668">
+                    <ellipse id="Ellipse_124" data-name="Ellipse 124" class="cls-13" cx="166.187" cy="166.563" rx="166.187" ry="166.563" transform="translate(1731.918 202.078)"/>
+                    <ellipse id="Ellipse_125" data-name="Ellipse 125" class="cls-14" cx="166.187" cy="166.563" rx="166.187" ry="166.563" transform="translate(1550.927 73.633)"/>
+                    <ellipse id="Ellipse_126" data-name="Ellipse 126" class="cls-15" cx="114.475" cy="114.734" rx="114.475" ry="114.734" transform="translate(1808.361 87.154)"/>
+                    <ellipse id="Ellipse_127" data-name="Ellipse 127" class="cls-16" cx="114.475" cy="114.734" rx="114.475" ry="114.734" transform="translate(1677.958 240.386)"/>
+                    <ellipse id="Ellipse_128" data-name="Ellipse 128" class="cls-17" cx="88.619" cy="88.82" rx="88.619" ry="88.82" transform="translate(1755.525 89.407)"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1681" data-name="Group 1681" transform="translate(-1501 118)">
+        <circle id="Ellipse_137" data-name="Ellipse 137" class="cls-18" cx="129.283" cy="129.283" r="129.283" transform="translate(1483.434 408.276)"/>
+        <g id="Group_1680" data-name="Group 1680">
+          <g id="Group_1679" data-name="Group 1679">
+            <circle id="Ellipse_138" data-name="Ellipse 138" class="cls-19" cx="114.527" cy="114.527" r="114.527" transform="translate(1539.606 478.082)"/>
+            <circle id="Ellipse_139" data-name="Ellipse 139" class="cls-20" cx="114.527" cy="114.527" r="114.527" transform="translate(1448.183 407.063)"/>
+            <circle id="Ellipse_140" data-name="Ellipse 140" class="cls-21" cx="78.89" cy="78.89" r="78.89" transform="translate(1592.287 399.061)"/>
+            <circle id="Ellipse_141" data-name="Ellipse 141" class="cls-22" cx="78.89" cy="78.89" r="78.89" transform="translate(1502.42 504.423)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1684" data-name="Group 1684" transform="translate(-219 -655)">
+        <circle id="Ellipse_142" data-name="Ellipse 142" class="cls-18" cx="64.283" cy="64.283" r="64.283" transform="translate(621.434 773.276)"/>
+        <g id="Group_1683" data-name="Group 1683">
+          <g id="Group_1682" data-name="Group 1682">
+            <circle id="Ellipse_143" data-name="Ellipse 143" class="cls-23" cx="56.946" cy="56.946" r="56.946" transform="translate(648.867 807.986)"/>
+            <circle id="Ellipse_144" data-name="Ellipse 144" class="cls-24" cx="56.946" cy="56.946" r="56.946" transform="translate(586.848 764.072)"/>
+            <circle id="Ellipse_145" data-name="Ellipse 145" class="cls-25" cx="39.226" cy="39.226" r="39.226" transform="translate(673.061 777.694)"/>
+            <circle id="Ellipse_146" data-name="Ellipse 146" class="cls-26" cx="39.226" cy="39.226" r="39.226" transform="translate(630.377 821.083)"/>
+            <circle id="Ellipse_147" data-name="Ellipse 147" class="cls-27" cx="30.367" cy="30.367" r="30.367" transform="translate(656.957 769.464)"/>
+            <circle id="Ellipse_148" data-name="Ellipse 148" class="cls-1" cx="64.283" cy="64.283" r="64.283" transform="translate(621.544 772.925)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_1688" data-name="Group 1688" transform="translate(-293 835)">
+        <circle id="Ellipse_149" data-name="Ellipse 149" class="cls-28" cx="37.283" cy="37.283" r="37.283" transform="translate(77.434 170.276)"/>
+        <g id="Group_1687" data-name="Group 1687">
+          <g id="Group_1686" data-name="Group 1686" class="cls-29">
+            <g id="Group_1685" data-name="Group 1685">
+              <circle id="Ellipse_150" data-name="Ellipse 150" class="cls-30" cx="33.028" cy="33.028" r="33.028" transform="translate(92.078 193.16)"/>
+              <circle id="Ellipse_151" data-name="Ellipse 151" class="cls-31" cx="33.028" cy="33.028" r="33.028" transform="translate(57.375 164.938)"/>
+              <circle id="Ellipse_152" data-name="Ellipse 152" class="cls-32" cx="22.751" cy="22.751" r="22.751" transform="translate(108.537 167.619)"/>
+              <circle id="Ellipse_153" data-name="Ellipse 153" class="cls-33" cx="22.751" cy="22.751" r="22.751" transform="translate(82.621 198.003)"/>
+              <circle id="Ellipse_154" data-name="Ellipse 154" class="cls-34" cx="17.612" cy="17.612" r="17.612" transform="translate(98.036 168.065)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
